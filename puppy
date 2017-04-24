@@ -1,0 +1,23 @@
+<!DOCTYPE>
+<html>
+<head> 
+<title>PUPPY for PUPPIES</title>
+<meta name= "Description" content= "Bu köpeklere özel bir sayfadır."/>
+<meta name= "Keywords" content= "köpek, köpek maması, köpek tasması, köpek sahiplenme,yavru köpek, köpek aksesuarları,indirim köpek" />
+<meta name= "Copyright" content=  2010-2017 "Copyright | PUPPY"/>
+<meta charset= "UTF-8"/> 
+
+</head>
+
+<body>
+<q>quotes</q>
+<abbr title="PUPPY">PUPPIES</abbr>
+<p>hello world<p>
+<p>hello &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; world<p>
+<pre>Metnin içindeki tüm boşlukların ve satır sonlarının korunmasının sağlar.</pre>
+<i> HELLO WORLD </i>
+<cite/> HI GUYS </cite>
+<h1> H1 BASLIGI </h1>
+
+</body>
+<html>
